@@ -10,7 +10,7 @@ role: MS Student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-- name: Korea Advanced Institute of Science and Technology
+- name: Korea Advanced Institute of Science and Technology (KAIST)
   url: https://www.kaist.ac.kr/
 
 # Short bio (displayed in user profile at end of posts)
@@ -26,7 +26,7 @@ interests:
 education:
   courses:
   - course: BSc in Computer Science and Engineering
-    institution: Ulsan National Institute of Science and Technology
+    institution: Ulsan National Institute of Science and Technology (UNIST)
     year: 2018
 
 # Social/Academic Networking
